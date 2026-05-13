@@ -1,0 +1,20 @@
+[
+  {
+    "id": "u1",
+    "name": "Admin User",
+    "email": "admin@librio.com",
+    "role": "Admin",
+    "age": 35,
+    "department": "Library Management",
+    "password": "admin"
+  },
+  {
+    "id": "u2",
+    "name": "John Student",
+    "email": "student@librio.com",
+    "role": "Student",
+    "age": 20,
+    "department": "Computer Science",
+    "password": "password"
+  }
+]
